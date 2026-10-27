@@ -14,9 +14,9 @@ This is the public project showcase. The application source is maintained privat
 
 1. Open [Return to Code](https://return-to-code.com/).
 2. Choose DSA & Coding Patterns or System Design.
-3. Study as a guest, or use optional Google sign-in to sync your progress across devices.
+3. Sign in with Google to enter a course and sync your progress across devices.
 
-Guest progress stays in that browser. Export a backup before changing browsers or site addresses. Signing in loads account progress; guest work is not uploaded automatically.
+The full course catalog is public. Your learning profile stays private. Signing in loads your account progress; the browser also keeps pending edits and recovery copies.
 
 ## Available courses
 
@@ -35,7 +35,7 @@ DSA is a learning companion and roadmap: it links to LeetCode for the actual cod
 - Highlight passages and attach personal notes.
 - Work through System Design exercises with free-form writing and an optional diagramming whiteboard.
 - Prepare an answer-and-diagram packet for manual review in Codex or Claude. The website does not make AI API calls to grade your work.
-- Save browser backups or use optional Google account sync. Learner profiles and feedback are private.
+- Export account backups and sync through Google sign-in. Learner profiles and feedback are private.
 
 There is no mandatory daily schedule. Completion records your study; it is not an accredited certificate or a guarantee of interview success.
 
